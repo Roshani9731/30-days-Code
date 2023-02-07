@@ -1,0 +1,4 @@
+
+Question 3:- In the GitHub repository, Infinity-AI(Infinite Learn and Grow)/30-days-code inside the Day-3 folder create your_name.py file as defined in the readme.md file.
+- Write a script that prompts the user to enter the base and height of the triangle and calculate the area of this triangle (area = 0.5 x b x h).
+- Get the radius of a circle using the prompt. Calculate the area (area = pi x r x r) and circumference (c = 2 x pi x r) where pi = 3.14.
